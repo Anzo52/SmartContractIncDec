@@ -1,4 +1,6 @@
 # SmartContractIncDec
 A counting smart contract.
-Not sure what it might be used for.
+
+Can be used to count various objects or actions...I think.
+
 [Contact me](andy@zollnersolutions.com) if you know web3 stuff. 
